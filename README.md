@@ -1,7 +1,5 @@
 # Módulo: Fundamentos do Bootstrap
 
----
-
 ## Módulo de Aprendizado
 
 Este projeto se destina à avaliação dos conhecimentos adquiridos no módulo de aprendizado Fundamentos do Bootstrap.
@@ -36,7 +34,7 @@ Se trata da criação de um formulário simples que permita o usuário entrar co
 
 -   [Bootstrap v5.3.3](https://getbootstrap.com/)
 -   [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
--   [CSS3](<https(://developer.mozilla.org/en-US/docs/Web/CSS)>)
+-   [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 -   [Vanilla JS (ES6)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 -   [jQuery v3.7.1](https://jquery.com/)
 -   [Validate, um plugin jQuery v1.19.5](https://jqueryvalidation.org/)
